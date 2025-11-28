@@ -5,7 +5,7 @@ Just a Chill Grok is an automated fusion between Grok’s sharp intelligence and
 ## Tech
 
 The full codebase is available on GitHub. Everything runs through a Railway-hosted Node server that executes on scheduled intervals.
-How it works: Grok is called through its API and receives the custom prompt below. Its response is then automatically posted to the X account. No human intervention at any point. The entire system is fully automated from generation to posting.
+How it works: Grok is called through its API and receives the custom prompt below. Its response is then automatically posted to the X account (https://x.com/justachillgrok). No human intervention at any point. The entire system is fully automated from generation to posting.
 
 ## Prompt
 
