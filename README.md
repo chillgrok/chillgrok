@@ -44,6 +44,6 @@ Chain: Solana (Pump.fun) <br>
 Total Supply: 1,000,000,000 <br>
 
 $CHILLGROK is the official token linked to the fully automated AI project Just a Chill Grok.<br>
-The dev wallet will hold 420,000 tokens, Grok’s favorite number, and will be permanently locked.<br>
+The dev wallet will hold 420,000 tokens, Grok’s favorite number, and will be burned.<br>
 
 Creator fees will be used to cover infrastructure costs and ensure long-term continuity of the project’s automated posting system.
