@@ -39,11 +39,11 @@ Only the final post. No explanations.
 
 ## $CHILLGROK token
 
-CA: coming soon
-Chain: Solana (Pump.fun)
-Total Supply: 1,000,000,000
+CA: coming soon <br>
+Chain: Solana (Pump.fun) <br>
+Total Supply: 1,000,000,000 <br>
 
-$CHILLGROK is the official token linked to the fully automated AI project Just a Chill Grok.
-The dev wallet will hold 420,000 tokens, Grok’s favorite number, and will be permanently locked.
+$CHILLGROK is the official token linked to the fully automated AI project Just a Chill Grok.<br>
+The dev wallet will hold 420,000 tokens, Grok’s favorite number, and will be permanently locked.<br>
 
 Creator fees will be used to cover infrastructure costs and ensure long-term continuity of the project’s automated posting system.
