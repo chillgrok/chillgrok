@@ -39,7 +39,7 @@ Only the final post. No explanations.
 
 ## $CHILLGROK token
 
-CA: coming soon <br>
+CA: A3ugTowkAvhDVy8YjP2vdF69EtqFqroKUht9gwzrpump <br>
 Chain: Solana (Pump.fun) <br>
 Total Supply: 1,000,000,000 <br>
 
